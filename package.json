@@ -1,0 +1,23 @@
+{
+  "name": "allocinema",
+  "version": "1.0.0",
+  "description": "TP_Allocine",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yassineATT/AlloCinema.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yassineATT/AlloCinema/issues"
+  },
+  "homepage": "https://github.com/yassineATT/AlloCinema#readme",
+  "dependencies": {
+    "parcel": "^2.7.0"
+  }
+}
