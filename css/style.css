@@ -1,0 +1,11 @@
+.head{
+    background-color: aquamarine;
+    text-align: center;
+    position: relative;
+}
+
+.search{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 5px;
+}
