@@ -1,11 +1,19 @@
-.head{
-    background-color: aquamarine;
+body{
+    margin: 50px;
     text-align: center;
+
+}
+
+.head{
+    background-color: aqua;  
+
     position: relative;
+    border-radius: 10px;
+    
 }
 
 .search{
-    background-color: aquamarine;
-    text-align: center;
+    background-color: aqua;
     padding: 5px;
+    border-radius: 10px;
 }
