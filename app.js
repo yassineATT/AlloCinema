@@ -12,6 +12,10 @@ const myFetch = (path) => {
 
 myFetch("/search/movie")
     .then(data=> {
-        console.log('res',data)
+        console.log('res',data.results)
+        const titleDOM = document.querySelector('.movie-title')
+        const title = data.results[0].title
+        titleDOM.innerHTML = title
+        console.log('res',data.results[0].title, titleDOM)
     })
 
