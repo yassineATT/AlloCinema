@@ -5,7 +5,7 @@ body{
 .page{
     width: 90%;
     display: flex;
- flex-direction:;
+    flex-direction: column;
 
 }
 
